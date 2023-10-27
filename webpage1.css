@@ -1,0 +1,96 @@
+body
+        {
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(228, 235, 236);
+        }
+        .box
+        {
+            background-color: rgba(112, 83, 218, 0.685);
+            border-radius: 25px;
+            height: 500px;
+            width: 350px;
+        }
+        .h1
+        {
+            margin-left: 114px;
+            color: white;
+        }
+        #fname
+        {
+            width: 150px;
+            height: 30px;
+            border-radius: 5px;
+            margin-left: 13px;
+            border: solid white;
+        }
+        #lname
+        {
+            width: 150px;
+            height: 30px;
+            border-radius: 5px;
+            margin-left: 3px;
+            border: solid white;
+        }
+        #email
+        {
+            height: 30px;
+            width: 315px;
+            border-radius: 5px;
+            margin-left: 13px;
+            border: solid white;
+        }
+        #password
+        {
+            height: 30px;
+            width: 315px;
+            border-radius: 5px;
+            margin-left: 13px;
+            border: solid white;
+        }
+        #password1
+        {
+            height: 30px;
+            width: 315px;
+            border-radius: 5px;
+            margin-left: 13px;
+            border: solid white;
+        }
+        #c1
+        {
+            margin-left: 45px;
+        }
+        .p
+        {
+            font-size: 11px;
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin-top: 2px;
+        }
+        #sign-up
+        {
+            margin-left: 33px;
+            height: 40px;
+            width: 290px;
+            border-radius: 30px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 25px;
+            background-color: black;
+            color: gray;
+            border: solid rgba(141, 134, 134, 0.658);
+        }
+        .p1
+        {
+            color: white;
+            margin-left: 60px;
+            font-size: 16px;
+        }
+        .p2
+        {
+            color: white;
+            font-size: 14px;
+            margin-left: 85px;
+        }
